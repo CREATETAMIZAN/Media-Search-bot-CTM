@@ -100,7 +100,7 @@ async def start(bot, cmd):
                 [
                     [
                         InlineKeyboardButton("Search Here", switch_inline_query_current_chat=''),
-                        InlineKeyboardButton("join", url="https://t.me/create_tamilan_tamil_dubbed")
+                        InlineKeyboardButton("join", url="https://t.me/create_tamilan2")
                     ]
                 ]
             )
